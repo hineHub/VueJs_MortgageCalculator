@@ -1,0 +1,22 @@
+.graphArea {
+    max-height: 200px;
+    margin-bottom: 200px;
+    margin-top: 20px;
+}
+.monthly {
+    margin-top:20px;
+}
+.list {
+  margin: 0 0 5px 0;
+  padding: 0;
+  list-style-type: none;
+}
+.list:hover .star {
+  color: #f3d23e;
+}
+.active {
+  color: #f3d23e;
+}
+.summary {
+    margin-top:20px;
+}
